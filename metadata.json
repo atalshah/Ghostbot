@@ -1,0 +1,5 @@
+{
+  "name": "Neon Elite Bot Control Center",
+  "description": "A comprehensive dashboard for managing and monitoring the Neon Elite Casino WhatsApp OTP Automation bot, featuring real-time log tracking, Firestore integration status, and code export tools.",
+  "requestFramePermissions": []
+}
